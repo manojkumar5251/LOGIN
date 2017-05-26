@@ -16,4 +16,4 @@ const styles={
     alignItems:'center'
   }
 }
-export {Spinner};
+export default Spinner;

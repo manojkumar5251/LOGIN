@@ -26,4 +26,4 @@ const styles={
     position: 'relative'
   }
 }
-export {Header};
+export default Header;

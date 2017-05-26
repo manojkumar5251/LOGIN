@@ -21,4 +21,4 @@ const styles = {
     position:'relative'
   }
 }
-export {Cardsection};
+export default Cardsection;
